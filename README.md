@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Python and Statistical algorithmic coding**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Durgamjyoshna](https://github.com/Durgamjyoshna)
+- 👨‍💻 All of my projects are available at [https://github.com/JyoshnaDurgamSavvy](https://github.com/JyoshnaDurgamSavvy)
 
 - 📝 I regularly write articles on [Medium and TowardsDataScience](Medium and TowardsDataScience)
 
